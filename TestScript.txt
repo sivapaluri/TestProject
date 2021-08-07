@@ -1,2 +1,2 @@
 Added Script
-Added script from SCM.
+Added script from Source Code Management.
